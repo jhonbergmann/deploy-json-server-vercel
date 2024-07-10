@@ -1,7 +1,6 @@
 {
   "name": "deploy-json-server-vercel",
   "version": "1.0.0",
-  "description": "Deploy JSON Server",
   "main": "api/server.js",
   "scripts": {
     "start": "node api/server.js"
